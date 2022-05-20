@@ -6,7 +6,7 @@ const Landing = () => {
       <div className="dark-overlay">
         <div className="landing-inner">
           <h1 className="x-large">Fastify</h1>
-          <p className="lead">Bus your Bus Ticket Online</p>
+          <p className="lead">Book your Bus Ticket Online</p>
           <div className="buttons">
             <Link to="/registerUser" className="btn btn-custom">
               Sign Up
